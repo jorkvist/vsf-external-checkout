@@ -1,5 +1,5 @@
 {
-  "name": "vsf-external-checkout",
+  "name": "vsf-external-checkout-klarna",
   "version": "1.0.6",
   "description": "External checkout extension for Vue Storefront",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/filrak/vsf-external-checkout.git"
+    "url": "git+https://github.com/jorkvist/vsf-external-checkout.git"
   },
   "author": "Filip Rakowski",
   "license": "MIT",
